@@ -1,0 +1,9 @@
+[package]
+name = "reload"
+version = "0.1.0"
+authors = ["agaric <agaric@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7.3"
+tcod = "0.15"

@@ -1,3 +1,47 @@
 * reload
 
-Reload is an urban-themed roguelike game with a focus on lethal equipment management, combat mechanics, and short-term survival
+Reload is a tile- and turn-based urban roguelike game with a focus on combat mechanics, lethal equipment management, and calculated endurance.
+
+Inspirations include games like /Cataclysm DDA/, /Counter-Strike/, /Crawl/, /Diablo/, /DoomRL/, /Fallout/, and /The Last of Us/.
+
+** Status
+
+/pre-alpha/
+
+** Build & Run
+
+*** Dependencies
+
+- rust & cargo ~= 1.44~
+- (tcod)
+  - gcc, g++
+  - make
+  - sdl2
+
+*** Steps
+
+1. clone
+1. ~cd reload/~
+1. ~cargo run --release~
+
+** Concept with mockups
+
+Play:
+
+[[https://raw.githubusercontent.com/agarick/reload/master/pub/reload-concept-play.png]]
+
+Aim:
+
+[[https://raw.githubusercontent.com/agarick/reload/master/pub/reload-concept-aim.png]]
+
+Equipment:
+
+[[https://raw.githubusercontent.com/agarick/reload/master/pub/reload-concept-equipment.png]]
+
+Character:
+
+[[https://raw.githubusercontent.com/agarick/reload/master/pub/reload-concept-character.png]]
+
+Skill tree:
+
+[[https://raw.githubusercontent.com/agarick/reload/master/pub/reload-concept-skill.png]]
