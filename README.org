@@ -28,20 +28,20 @@ Inspirations include games like /Cataclysm DDA/, /Counter-Strike/, /Crawl/, /Dia
 
 Play:
 
-[[https://raw.githubusercontent.com/agarick/reload/master/pub/reload-concept-play.png]]
+[[https://raw.githubusercontent.com/blobject/reload/master/pub/reload-concept-play.png]]
 
 Aim:
 
-[[https://raw.githubusercontent.com/agarick/reload/master/pub/reload-concept-aim.png]]
+[[https://raw.githubusercontent.com/blobject/reload/master/pub/reload-concept-aim.png]]
 
 Equipment:
 
-[[https://raw.githubusercontent.com/agarick/reload/master/pub/reload-concept-equipment.png]]
+[[https://raw.githubusercontent.com/blobject/reload/master/pub/reload-concept-equipment.png]]
 
 Character:
 
-[[https://raw.githubusercontent.com/agarick/reload/master/pub/reload-concept-character.png]]
+[[https://raw.githubusercontent.com/blobject/reload/master/pub/reload-concept-character.png]]
 
 Skill tree:
 
-[[https://raw.githubusercontent.com/agarick/reload/master/pub/reload-concept-skill.png]]
+[[https://raw.githubusercontent.com/blobject/reload/master/pub/reload-concept-skill.png]]
