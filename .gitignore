@@ -1,2 +1,4 @@
+.hg/
+.hgignore
 /target/
 /courier12x12_aa_tc.png
